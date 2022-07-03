@@ -82,7 +82,7 @@ The description of each feature column is in the file **variable_names_and_descr
 ## Predict mutation using only nucleotide sequence
 In addition to work presented, 3 additional models were introduced using only the nucleotide sequence with the format: <i>TACAAA**C**CTTTTC>G</i>. The C in the middle is the position that mutates to **>G**.  
 Since the nucleotide sequence is used only, there is a loss of performance of 3%-5% as is present in **seq_only_mut_pred_scores.csv**. 
-These modeles can be downloaded from [link](https://rovira-my.sharepoint.com/:u:/g/personal/y-6848578-c_epp_urv_cat/EUO6H3_WKtdOrQNojm65KNMBEt53_vqxo0BOH8HvNJyisQ?e=OV4GRb) 
+These models can be downloaded from [link](https://rovira-my.sharepoint.com/:u:/g/personal/y-6848578-c_epp_urv_cat/EUO6H3_WKtdOrQNojm65KNMBEt53_vqxo0BOH8HvNJyisQ?e=OV4GRb) 
 ```
 python3 rm_predict_from_seq.py -sequence="TACAAACCTTTTC>G" \
 -models_dir="./sequence_predict_models/" \
