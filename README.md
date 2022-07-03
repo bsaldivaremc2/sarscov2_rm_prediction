@@ -6,8 +6,6 @@ Contents:
 ## Models usage for prediction/inference
 <ul>
 <li> Dowload the models from:  <a href="https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EbpFCfw0L3hMunIpUs7wYK0BHyJjDkv_UFzBiun5xnSHow?e=IDvMqR">7zfile</a>  </li>
-[7zfile](https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EbpFCfw0L3hMunIpUs7wYK0BHyJjDkv_UFzBiun5xnSHow?e=IDvMqR "Main models for inference")    
-
 <li> Unzip the <strong>pos_mut_models.7z</strong> file with </li>  
 </ul>
 
