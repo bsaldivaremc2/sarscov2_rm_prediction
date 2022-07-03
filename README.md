@@ -4,10 +4,12 @@ Contents:
 <li> Models for prediction of recurrent mutations and positions
 
 ## Models usage for prediction/inference
+<ul>
 <li> Dowload the models from: </li>
-[7zfile](https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EbpFCfw0L3hMunIpUs7wYK0BHyJjDkv_UFzBiun5xnSHow?e=IDvMqR)    
+[7zfile](https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EbpFCfw0L3hMunIpUs7wYK0BHyJjDkv_UFzBiun5xnSHow?e=IDvMqR "Main models for inference")    
 
-<li> Unzip the **pos_mut_models.7z** file with </li>
+<li> Unzip the **pos_mut_models.7z** file with </li>  
+</ul>
 ```
 7z e pos_mut_models.7z
 ```
