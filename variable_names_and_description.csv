@@ -1,0 +1,46 @@
+Variable. Position -1,Description. Position -1,Variable. Position 0/Central,Description. Position 0/Central,Variable. Position 1,Description. Position 1
+P-1_A,Position -1. Nucleotide is Adenine,P0A>,Position 0. Nucleotide that mutates is Adenine,P1_A,Position 1. Nucleotide is Adenine
+P-1_G,Position -1. Nucleotide is Guanine,P0G>,Position 0. Nucleotide that mutates is Guanine,P1_G,Position 1. Nucleotide is Guanine
+P-1_C,Position -1. Nucleotide is Cytosine,P0C>,Position 0. Nucleotide that mutates is Cytosine,P1_C,Position 1. Nucleotide is Cytosine
+P-1_T,Position -1. Nucleotide is Uracil,P0T>,Position 0. Nucleotide that mutates is Uracil,P1_T,Position 1. Nucleotide is Uracil
+,,P0>A,Position 0. Nucleotide mutates to Adenine,,
+,,P0>G,Position 0. Nucleotide mutates to Guanine,,
+,,P0>C,Position 0. Nucleotide mutates to Cytosine,,
+,,P0>T,Position 0. Nucleotide mutates to Uracil,,
+P-1_aa_A,"Position -1. Resulting amino acid of the original codon, Alanine",P0_aa_A,"Position 0. Resulting amino acid of the original codon, Alanine",P1_aa_A,"Position 1. Resulting amino acid of the original codon, Alanine"
+P-1_aa_C,"Position -1. Resulting amino acid of the original codon, Cysteine",P0_aa_C,"Position 0. Resulting amino acid of the original codon, Cysteine",P1_aa_C,"Position 1. Resulting amino acid of the original codon, Cysteine"
+P-1_aa_D,"Position -1. Resulting amino acid of the original codon, Aspartic Acid",P0_aa_D,"Position 0. Resulting amino acid of the original codon, Aspartic Acid",P1_aa_D,"Position 1. Resulting amino acid of the original codon, Aspartic Acid"
+P-1_aa_E,"Position -1. Resulting amino acid of the original codon, Glutamic Acid",P0_aa_E,"Position 0. Resulting amino acid of the original codon, Glutamic Acid",P1_aa_E,"Position 1. Resulting amino acid of the original codon, Glutamic Acid"
+P-1_aa_F,"Position -1. Resulting amino acid of the original codon, Phenylalanine",P0_aa_F,"Position 0. Resulting amino acid of the original codon, Phenylalanine",P1_aa_F,"Position 1. Resulting amino acid of the original codon, Phenylalanine"
+P-1_aa_G,"Position -1. Resulting amino acid of the original codon, Glycine",P0_aa_G,"Position 0. Resulting amino acid of the original codon, Glycine",P1_aa_G,"Position 1. Resulting amino acid of the original codon, Glycine"
+P-1_aa_H,"Position -1. Resulting amino acid of the original codon, Histidine",P0_aa_H,"Position 0. Resulting amino acid of the original codon, Histidine",P1_aa_H,"Position 1. Resulting amino acid of the original codon, Histidine"
+P-1_aa_I,"Position -1. Resulting amino acid of the original codon, Isoleucine",P0_aa_I,"Position 0. Resulting amino acid of the original codon, Isoleucine",P1_aa_I,"Position 1. Resulting amino acid of the original codon, Isoleucine"
+P-1_aa_K,"Position -1. Resulting amino acid of the original codon, Lysine",P0_aa_K,"Position 0. Resulting amino acid of the original codon, Lysine",P1_aa_K,"Position 1. Resulting amino acid of the original codon, Lysine"
+P-1_aa_L,"Position -1. Resulting amino acid of the original codon, Leucine",P0_aa_L,"Position 0. Resulting amino acid of the original codon, Leucine",P1_aa_L,"Position 1. Resulting amino acid of the original codon, Leucine"
+P-1_aa_M,"Position -1. Resulting amino acid of the original codon, Methionine",P0_aa_M,"Position 0. Resulting amino acid of the original codon, Methionine",P1_aa_M,"Position 1. Resulting amino acid of the original codon, Methionine"
+P-1_aa_N,"Position -1. Resulting amino acid of the original codon, Asparagine",P0_aa_N,"Position 0. Resulting amino acid of the original codon, Asparagine",P1_aa_N,"Position 1. Resulting amino acid of the original codon, Asparagine"
+P-1_aa_P,"Position -1. Resulting amino acid of the original codon, Proline",P0_aa_P,"Position 0. Resulting amino acid of the original codon, Proline",P1_aa_P,"Position 1. Resulting amino acid of the original codon, Proline"
+P-1_aa_Q,"Position -1. Resulting amino acid of the original codon, Glutamine",P0_aa_Q,"Position 0. Resulting amino acid of the original codon, Glutamine",P1_aa_Q,"Position 1. Resulting amino acid of the original codon, Glutamine"
+P-1_aa_R,"Position -1. Resulting amino acid of the original codon, Arginine",P0_aa_R,"Position 0. Resulting amino acid of the original codon, Arginine",P1_aa_R,"Position 1. Resulting amino acid of the original codon, Arginine"
+P-1_aa_S,"Position -1. Resulting amino acid of the original codon, Serine",P0_aa_S,"Position 0. Resulting amino acid of the original codon, Serine",P1_aa_S,"Position 1. Resulting amino acid of the original codon, Serine"
+P-1_aa_T,"Position -1. Resulting amino acid of the original codon, Threonine",P0_aa_T,"Position 0. Resulting amino acid of the original codon, Threonine",P1_aa_T,"Position 1. Resulting amino acid of the original codon, Threonine"
+P-1_aa_V,"Position -1. Resulting amino acid of the original codon, Valine",P0_aa_V,"Position 0. Resulting amino acid of the original codon, Valine",P1_aa_V,"Position 1. Resulting amino acid of the original codon, Valine"
+P-1_aa_W,"Position -1. Resulting amino acid of the original codon, Tryptophan",P0_aa_W,"Position 0. Resulting amino acid of the original codon, Tryptophan",P1_aa_W,"Position 1. Resulting amino acid of the original codon, Tryptophan"
+P-1_aa_Y,"Position -1. Resulting amino acid of the original codon, Tyrosine",P0_aa_Y,"Position 0. Resulting amino acid of the original codon, Tyrosine",P1_aa_Y,"Position 1. Resulting amino acid of the original codon, Tyrosine"
+P-1_aa__,"Position -1. Resulting amino acid of the original codon, Stop",P0_aa__,"Position 0. Resulting amino acid of the original codon, Stop",P1_aa__,"Position 1. Resulting amino acid of the original codon, Stop"
+P-1_aa__nothing,"Position -1. Resulting amino acid of the original codon, Stop",P0_aa__nothing,"Position 0. Resulting amino acid of the original codon, Stop",P1_aa__nothing,"Position 1. Resulting amino acid of the original codon, Stop"
+P-1_aa_nothing,"Position -1. Resulting amino acid of the original codon, Stop",P0_aa_nothing,"Position 0. Resulting amino acid of the original codon, Stop",P1_aa_nothing,"Position 1. Resulting amino acid of the original codon, Stop"
+P-1_codon_pos_*,"Position -1. Codon position, Codes for stop",P0_codon_pos_*,"Position 0. Codon position, Codes for stop",P1_codon_pos_*,"Position 1. Codon position, Codes for stop"
+P-1_codon_pos_1,"Position -1. Codon position, 1",P0_codon_pos_1,"Position 0. Codon position, 1",P1_codon_pos_1,"Position 1. Codon position, 1"
+P-1_codon_pos_2,"Position -1. Codon position, 2",P0_codon_pos_2,"Position 0. Codon position, 2",P1_codon_pos_2,"Position 1. Codon position, 2"
+P-1_codon_pos_3,"Position -1. Codon position, 3",P0_codon_pos_3,"Position 0. Codon position, 3",P1_codon_pos_3,"Position 1. Codon position, 3"
+P-1_codon_pos__,"Position -1. Codon position, Codes for stop",P0_codon_pos__,"Position 0. Codon position, Codes for stop",P1_codon_pos__,"Position 1. Codon position, Codes for stop"
+P-1_2S_pair_A,Position -1. In secondary structure  has bonding with A,P0_2S_pair_A,Position 0. In secondary structure  has bonding with A,P1_2S_pair_A,Position 1. In secondary structure  has bonding with A
+P-1_2S_pair_G,Position -1. In secondary structure  has bonding with G,P0_2S_pair_G,Position 0. In secondary structure  has bonding with G,P1_2S_pair_G,Position 1. In secondary structure  has bonding with G
+P-1_2S_pair_C,Position -1. In secondary structure  has bonding with C,P0_2S_pair_C,Position 0. In secondary structure  has bonding with C,P1_2S_pair_C,Position 1. In secondary structure  has bonding with C
+P-1_2S_pair_T,Position -1. In secondary structure  has bonding with T,P0_2S_pair_T,Position 0. In secondary structure  has bonding with T,P1_2S_pair_T,Position 1. In secondary structure  has bonding with T
+P-1_2S_pair__,Position -1. In secondary structure  has no bonding pair.,P0_2S_pair__,Position 0. In secondary structure  has no bonding pair.,P1_2S_pair__,Position 1. In secondary structure  has no bonding pair.
+P-1_2S_linked_true,Position -1. In secondary structure Has bonding pair.,P0_2S_linked_true,Position 0. In secondary structure Has bonding pair.,P1_2S_linked_true,Position 1. In secondary structure Has bonding pair.
+P-1_2S_linked_false,Position -1. In secondary structure Has not bonding pair.,P0_2S_linked_false,Position 0. In secondary structure Has not bonding pair.,P1_2S_linked_false,Position 1. In secondary structure Has not bonding pair.
+P-1_react_vivo,Position -1. RNA Reactivity in vivo,P0_react_vivo,Position 0. RNA Reactivity in vivo,P1_react_vivo,Position 1. RNA Reactivity in vivo
+P-1_react_vitro,Position -1. RNA Reactivity in vitro,P0_react_vitro,Position 0. RNA Reactivity in vitro,P1_react_vitro,Position 1. RNA Reactivity in vitro
