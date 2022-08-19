@@ -1,5 +1,5 @@
 # SARS-CoV-2 Prediction of recurrent mutations  
-This repository contains supplementary material to the publication XXXXX.  
+This repository contains supplementary material to the publication <i>Prediction of recurrent mutations in SARS-CoV-2 using artificial neural networks</i>.  
 Contents:  
 <li> Models for prediction of recurrent mutations and positions
 
