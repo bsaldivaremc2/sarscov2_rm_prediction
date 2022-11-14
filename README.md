@@ -101,5 +101,6 @@ python3 rm_predict_from_seq.py -sequence_file="seq_file.txt" \
 -prediction_type="mutation"
 ```
 
-If you are using this material please cite the work as:
-
+If you are using this material please cite the work as:  
+  
+Additional technical aspects not described in the manuscript and source codes will be provided under request.
