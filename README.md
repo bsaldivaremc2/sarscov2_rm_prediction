@@ -1,7 +1,12 @@
 # SARS-CoV-2 Prediction of recurrent mutations  
-This repository contains supplementary material to the publication <i>Prediction of recurrent mutations in SARS-CoV-2 using artificial neural networks</i>.  
-Contents:  
-<li> Models for prediction of recurrent mutations and positions
+This repository contains supplementary material to the publication **<i>Prediction of recurrent mutations in SARS-CoV-2 using artificial neural networks</i>**.  
+
+## Contents:  
+* Models for prediction of recurrent mutations and positions.  
+* Predicting mutations using just the nucleotide sequence.  
+* Dataset.  
+* Citation.  
+* Other information.  
 
 ## Models usage for prediction/inference
 <ul>
@@ -100,7 +105,11 @@ python3 rm_predict_from_seq.py -sequence_file="seq_file.txt" \
 -th="15" \
 -prediction_type="mutation"
 ```
+## Dataset  
+The datasets for prediction of positions and mutations can be downloaded from  [link_position](https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EVj_jsvLMJVGnlQtYGU17bsBUUbfwKW-uuXFM2NJ4mDqKg?e=JbWzSh) and  [link_mutation](https://rovira-my.sharepoint.com/:u:/g/personal/39706766-a_epp_urv_cat/EcC_KBLrb7pDt-LnTUe_7NoBfUDGuaQoplGW23Z7Ce7LRw?e=pIiJhX).
 
-If you are using this material please cite the work as:  
-  
+## Citation
+If you are using any of this material please cite the work as:  
+
+## Other information
 Additional technical aspects not described in the manuscript and source codes will be provided under request.
