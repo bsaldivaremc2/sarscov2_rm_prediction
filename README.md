@@ -134,7 +134,7 @@ Publisher: Multidisciplinary Digital Publishing Institute},
 	keywords = {{COVID}-19, machine learning, mutations, {SARS}-{CoV}-2}
 }
 ```
-Other formats can be obtained form the citation files for your bibliography manager software.
+Other formats can be obtained form the [citation files](https://github.com/bsaldivaremc2/sarscov2_rm_prediction/tree/main/citation_files) for your bibliography management software.
 
 
 ## Other information
