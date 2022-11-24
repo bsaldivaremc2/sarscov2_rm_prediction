@@ -1,5 +1,5 @@
 # SARS-CoV-2 Prediction of recurrent mutations  
-This repository contains supplementary material to the publication **<i>Prediction of recurrent mutations in SARS-CoV-2 using artificial neural networks</i>**.  
+This repository contains supplementary material to the publication **<i>[Prediction of Recurrent Mutations in SARS-CoV-2 Using Artificial Neural Networks](https://www.mdpi.com/1422-0067/23/23/14683) </i>**.  
 
 ## Contents:  
 * Models for prediction of recurrent mutations and positions.  
@@ -110,6 +110,32 @@ The datasets for prediction of positions and mutations can be downloaded from  [
 
 ## Citation
 If you are using any of this material please cite the work as:  
+```
+Saldivar-Espinoza, B.; Macip, G.; Garcia-Segura, P.; Mestres-Truyol, J.; Puigbò, P.; Cereto-Massagué, A.; Pujadas, G.; Garcia-Vallve, S. Prediction of Recurrent Mutations in SARS-CoV-2 Using Artificial Neural Networks. Int. J. Mol. Sci. 2022, 23, 14683. https://doi.org/10.3390/ijms232314683
+```
+BibLaTeX:  
+```
+@article{saldivar-espinoza_prediction_2022,
+	title = {Prediction of Recurrent Mutations in {SARS}-{CoV}-2 Using Artificial Neural Networks},
+	volume = {23},
+	rights = {http://creativecommons.org/licenses/by/3.0/},
+	issn = {1422-0067},
+	url = {https://www.mdpi.com/1422-0067/23/23/14683},
+	doi = {10.3390/ijms232314683},
+	pages = {14683},
+	number = {23},
+	journaltitle = {International Journal of Molecular Sciences},
+	author = {Saldivar-Espinoza, Bryan and Macip, Guillem and Garcia-Segura, Pol and Mestres-Truyol, Júlia and Puigbò, Pere and Cereto-Massagué, Adrià and Pujadas, Gerard and Garcia-Vallve, Santiago},
+	urldate = {2022-11-24},
+	date = {2022-01},
+	langid = {english},
+	note = {Number: 23
+Publisher: Multidisciplinary Digital Publishing Institute},
+	keywords = {{COVID}-19, machine learning, mutations, {SARS}-{CoV}-2}
+}
+```
+Other formats can be obtained form the citation files for your bibliography manager software.
+
 
 ## Other information
 Additional technical aspects not described in the manuscript and source codes will be provided under request.

@@ -1,0 +1,128 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://www.mdpi.com/1422-0067/23/23/14683">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1422-0067"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saldivar-Espinoza</foaf:surname>
+                        <foaf:givenName>Bryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Macip</foaf:surname>
+                        <foaf:givenName>Guillem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Segura</foaf:surname>
+                        <foaf:givenName>Pol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mestres-Truyol</foaf:surname>
+                        <foaf:givenName>Júlia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Puigbò</foaf:surname>
+                        <foaf:givenName>Pere</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cereto-Massagué</foaf:surname>
+                        <foaf:givenName>Adrià</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pujadas</foaf:surname>
+                        <foaf:givenName>Gerard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Vallve</foaf:surname>
+                        <foaf:givenName>Santiago</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3324"/>
+        <link:link rdf:resource="#item_3325"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>COVID-19</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mutations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SARS-CoV-2</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1422-0067/23/23/14683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <bib:pages>14683</bib:pages>
+        <dc:date>2022/1</dc:date>
+        <dc:description>Number: 23
+Publisher: Multidisciplinary Digital Publishing Institute</dc:description>
+        <dcterms:dateSubmitted>2022-11-24 15:35:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Predicting SARS-CoV-2 mutations is difficult, but predicting recurrent mutations driven by the host, such as those caused by host deaminases, is feasible. We used machine learning to predict which positions from the SARS-CoV-2 genome will hold a recurrent mutation and which mutations will be the most recurrent. We used data from April 2021 that we separated into three sets: a training set, a validation set, and an independent test set. For the test set, we obtained a specificity value of 0.69, a sensitivity value of 0.79, and an Area Under the Curve (AUC) of 0.8, showing that the prediction of recurrent SARS-CoV-2 mutations is feasible. Subsequently, we compared our predictions with updated data from January 2022, showing that some of the false positives in our prediction model become true positives later on. The most important variables detected by the model’s Shapley Additive exPlanation (SHAP) are the nucleotide that mutates and RNA reactivity. This is consistent with the SARS-CoV-2 mutational bias pattern and the preference of some host deaminases for specific sequences and RNA secondary structures. We extend our investigation by analyzing the mutations from the variants of concern Alpha, Beta, Delta, Gamma, and Omicron. Finally, we analyzed amino acid changes by looking at the predicted recurrent mutations in the M-pro and spike proteins.</dcterms:abstract>
+        <dc:title>Prediction of Recurrent Mutations in SARS-CoV-2 Using Artificial Neural Networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1422-0067">
+        <prism:volume>23</prism:volume>
+        <prism:number>23</prism:number>
+        <dc:title>International Journal of Molecular Sciences</dc:title>
+        <dc:identifier>ISSN 1422-0067</dc:identifier>
+        <dc:identifier>DOI 10.3390/ijms232314683</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3324">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1422-0067/23/23/14683/pdf?version=1669291713</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-24 15:35:08</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3325">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1422-0067/23/23/14683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-24 15:35:15</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
