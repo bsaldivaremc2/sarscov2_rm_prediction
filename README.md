@@ -1,6 +1,6 @@
 # SARS-CoV-2 Prediction of recurrent mutations  
 This repository contains supplementary material to the publication **<i>[Prediction of Recurrent Mutations in SARS-CoV-2 Using Artificial Neural Networks](https://www.mdpi.com/1422-0067/23/23/14683) </i>**.  
-![](imgs/Article_Banner_MDPI_ijms-23-14683.tif)  
+![](imgs/Article_Banner_MDPI_ijms-23-14683.png)  
 
 ## Contents:  
 * Models for prediction of recurrent mutations and positions.  
